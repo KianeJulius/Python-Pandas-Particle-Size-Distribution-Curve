@@ -1927,7 +1927,7 @@ plt.show()
 
 
     
-![png](output_14_1.png)
+![png](https://user-images.githubusercontent.com/124150494/224320000-9a549d95-27dd-4079-8590-a79ac8cb5a63.png)
     
 
 
@@ -1959,7 +1959,7 @@ plt.show()
 
 
     
-![png](output_15_1.png)
+![png](https://user-images.githubusercontent.com/124150494/224319955-5c9691ec-1fb9-4c4e-aaa6-b4c37a0891d9.png)
     
 
 
@@ -1991,6 +1991,6 @@ plt.show()
 
 
     
-![png](output_16_1.png)
+![png](https://user-images.githubusercontent.com/124150494/224320022-b19a65da-2a0c-46b2-830b-81d423465944.png)
     
 
